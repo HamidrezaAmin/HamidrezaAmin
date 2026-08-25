@@ -48,14 +48,7 @@ I'm exploring how LLMs, AI agents, machine learning, and geospatial analytics
 can be applied to transportation safety, mobility, civil infrastructure,
 and construction.
 
-## 📌 Featured Projects
 
-Coming soon:
-- Transportation Safety AI Agent
-- Crash Data Analytics
-- Transportation Machine Learning
-- LLM/RAG for Transportation Documents
-- Geospatial Mobility Analytics
 
 ## 🔗 Connect
 
