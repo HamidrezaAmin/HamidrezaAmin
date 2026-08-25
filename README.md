@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Hamid 👋
 
 ### Transportation Data Scientist | Computer Science + Civil Engineering
